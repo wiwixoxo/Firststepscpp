@@ -1,0 +1,6 @@
+.cache/
+.codelite/
+build-debug/
+compile_commands.json
+CPP2.workspace
+makefile
